@@ -1,7 +1,7 @@
 package com.hechao.entity;
 
 /**
- * Copyright (C) 2019 思创数码科技股份有限公司
+ * Copyright (C) 2019
  * <p>
  * 版权所有
  * <p>

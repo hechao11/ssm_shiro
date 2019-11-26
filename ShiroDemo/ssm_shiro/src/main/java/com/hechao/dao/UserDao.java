@@ -14,7 +14,6 @@ import java.util.List;
  * 做成日期  : 2019/3/10  hechao
  */
 public interface UserDao {
-
     User login(User user);
     List<String> selectRole(String username);
     List<String> selectPermission(String username);

@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 /**
- * Copyright (C) 2019 思创数码科技股份有限公司
+ * Copyright (C) 2019
  * <p>
  * 版权所有
  * <p>
